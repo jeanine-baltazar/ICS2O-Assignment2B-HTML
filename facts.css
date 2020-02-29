@@ -1,0 +1,96 @@
+body {
+  background-color:rgb(176, 187, 218)
+}
+.top {
+  background-color:rgb(51, 61, 88);
+  color:white;
+  padding:5px;
+  text-align:center;
+  margin-bottom:5px;
+  margin-left:auto;
+  margin-right:auto;
+  width:1015px;
+}
+h2 {
+  background-color: rgb(51, 61, 88);
+  color: white;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top:20px;
+  padding: 10px;
+  text-align: center;
+  width:1000px;
+  font-size:250%;
+  color:white;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color:white;
+  color:black;
+  width:1000px;
+  height:625px;
+  padding:10px;
+  border:2px solid black;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:200px;
+  height:250px;
+  border:2px solid black
+}
+h1 {
+  text-align:center;
+  font-size:350%;
+}
+h3 {
+  text-align:center;
+  font-size:250%;
+  font-weight:bold;
+}
+h4 {
+  text-align:center;
+  font-size:150%;
+}
+h5 {
+  text-align:center;
+  font-size:125%;
+  font-family:gill sans;
+  font-style:italic;
+  font-weight:normal;
+}
+ul {
+  line-height:40px;
+}
+.paragraph {
+  background-color: white;
+  color: black;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top:20px;
+  padding: 2px;
+  border:2px solid black;
+  width:1015px;
+}
+a:link, a:visited {
+  text-decoration: none;
+  display: inline-block;
+  color:black;
+}
+a:hover, a:active {
+  background-color: grey;
+}
+a {
+  background-color: white;
+  margin-left: 200px;
+  margin-right: auto;
+  margin-top:20px;
+  padding: 10px;
+  border:2px solid black;
+  width:1000px;
+  font-size:200%;
+  text-align:center;
+}
